@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Azhar, and this is my [GITHUB](https://github.com/Azharethan)
+### Hi there 👋 I'm Azhar(Software Engineer), and this is my [GITHUB](https://github.com/Azharethan)
 
 <!--
 **Azharethan/Azharethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
