@@ -8,5 +8,5 @@ One of the key features of Linux is its open-source nature, which means that the
 Linux is often used in enterprise environments due to its reliability and low cost of ownership, as well as in academic and scientific settings for research and high-performance computing. It is also popular among developers and enthusiasts who value its flexibility and the ability to customize it to their sp
 
 
-i am here nnn  fgjjhkl
+i am here nnn 
 
